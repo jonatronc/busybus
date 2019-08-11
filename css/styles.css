@@ -81,8 +81,8 @@ input {
   position: absolute;
   padding-left: 11px;
   color: #808084;
-  bottom: 8px;
-  /* transform: translateY(50%); */
+  left: 0px;
+  top: 8px;
 }
 
 .search h2 {
